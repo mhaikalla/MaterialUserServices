@@ -1,0 +1,11 @@
+node_modules/
+build/
+package-lock.json
+src/db/prisma/generated
+.DS_Store
+yarn.lock
+yarn-error.log
+coverage
+logs
+npm.log
+.vscode
